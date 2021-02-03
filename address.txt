@@ -1,0 +1,10 @@
+Commands are to be executed inside GDB to extract addresses
+
+Command: p system
+address: system(0xf7e07fa0)
+
+Command: p exit
+address: exit(0xf7dfa8f0)
+
+Command: find "/bin/sh"
+address: “/bin/sh”(0xf7f4f33c)
